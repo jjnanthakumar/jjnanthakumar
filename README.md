@@ -1,6 +1,7 @@
 ## Nanthakumar J J 🙏
 <a href="https://www.linkedin.com/in/nanthakumarjj-b58335148/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white" /></a>
+    
 [![](https://img.shields.io/badge/Nandy-portfolio-blue)](https://jjnanthakumar.github.io/)
 
 
