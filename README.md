@@ -7,7 +7,7 @@
 const Nanthakumar J J = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Java"],
-    askMeAbout: ["web dev", "tech", "app dev", "music", "eddie vedder", "chris cornell"],
+    askMeAbout: ["web dev", "tech", "coc"],
     technologies: {
        backEnd: {
             js: ["node", "express"],
