@@ -1,5 +1,5 @@
 ## Nanthakumar J J 🙏
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/nanthakumarjj-b58335148/)
+<a href="https://www.linkedin.com/in/nanthakumarjj-b58335148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 [![](https://img.shields.io/badge/Nandy-portfolio-blue)](https://jjnanthakumar.github.io/)
 
 
