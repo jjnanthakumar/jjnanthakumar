@@ -1,6 +1,6 @@
 ## Nanthakumar J J 🙏
-[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white")](https://www.linkedin.com/in/nanthakumarjj-b58335148/){:target="_blank"}
-[![](https://img.shields.io/badge/Nandy-portfolio-blue)](https://jjnanthakumar.github.io/){:target="_blank"}
+[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white")](https://www.linkedin.com/in/nanthakumarjj-b58335148/){target="_blank"}
+[![](https://img.shields.io/badge/Nandy-portfolio-blue)](https://jjnanthakumar.github.io/){target="_blank"}
 
 
 ```javascript
