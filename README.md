@@ -22,21 +22,25 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 ##### Languages I use
 
 <p align="center">
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+  
 </p>
 
 ##### Frameworks I use
 
 <p align="center">
+  
 ![Django](https://img.shields.io/badge/-Django-000000?style=flat&logo=django)
 ![React.js](https://img.shields.io/badge/-ReactJs-000000?style=flat&logo=react)
 ![Express.js](https://img.shields.io/badge/-ExpressJs-000000?style=flat&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
+
 </p>
 
 ----
