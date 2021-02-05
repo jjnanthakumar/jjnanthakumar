@@ -49,11 +49,14 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
   
 ----
    
-[![Nandy's github stats](https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22])](https://github.com/jjnanthakumar)
-
-<a href="https://github.com/jjnanthakumar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&theme=radical&layout=compact" />
-</a>
+<p align=center>
+  <a href="https://github.com/jjnanthakumar" title="User Profile">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22]">
+  </a>
+  <a href="https://github.com/jjnanthakumar" title="User Profile">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&theme=radical&layout=compact">
+  </a>
+</p>
 
 -------
 <div align="center">
