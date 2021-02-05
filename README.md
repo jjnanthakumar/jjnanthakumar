@@ -29,5 +29,7 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 
 -------
 
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/jjnanthakumar/count.svg)
 
 ⭐️ From [Nanthakumar J J](https://github.com/jjnanthakumar)
