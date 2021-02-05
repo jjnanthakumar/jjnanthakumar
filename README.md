@@ -36,6 +36,8 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 
 ### Show some ❤️ by starring some of the repositories!
 
+⭐️ From [Nanthakumar J J](https://github.com/jjnanthakumar)
+
+
 </div>
 
-⭐️ From [Nanthakumar J J](https://github.com/jjnanthakumar)
