@@ -50,7 +50,7 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 ----
 
 <a href="https://github.com/jjnanthakumar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&theme=radical&layout=compact" />
 </a>
 
 ----
