@@ -5,7 +5,7 @@
   
 I am a Final Year Computer Engineering Student at Panimalar Engineering College of Engineering Chengannur. I love Web development and trying to find more about Full Stack Web Development.
 
-- 🔭 I’m currently working on Sign Language Translator to Malayalam Application using Flutter and Python.
+- 🔭 I’m currently working on Memories App using MERN stack.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
