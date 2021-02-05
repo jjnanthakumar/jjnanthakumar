@@ -34,7 +34,6 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 ![Express.js](https://img.shields.io/badge/-ExpressJs-000000?style=flat&logo=express)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
 ![Jquery](https://img.shields.io/badge/-Jquery-000000?style=flat&logo=jquery)
-![Node.js](https://img.shields.io/badge/-NodeJs-000000?style=flat&logo=nodejs)
 
 ----
 
