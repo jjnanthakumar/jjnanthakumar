@@ -17,7 +17,13 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
-.    
+----
+
+<a href="https://github.com/jjnanthakumar">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&layout=compact" />
+</a>
+
+----
    
 [![Nandy's github stats](https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=merko&hide=[%22contribs%22,%22issues%22])](https://github.com/jjnanthakumar)
 
