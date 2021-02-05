@@ -20,12 +20,12 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 ----
 
 <a href="https://github.com/jjnanthakumar">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&theme=radical" />
 </a>
 
 ----
    
-[![Nandy's github stats](https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=merko&hide=[%22contribs%22,%22issues%22])](https://github.com/jjnanthakumar)
+[![Nandy's github stats](https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22])](https://github.com/jjnanthakumar)
 
 -------
 
