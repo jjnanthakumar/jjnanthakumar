@@ -28,9 +28,10 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 [![Nandy's github stats](https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22])](https://github.com/jjnanthakumar)
 
 -------
-
+<p align="center"> 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/jjnanthakumar/count.svg)
+  <img src="https://profile-counter.glitch.me/jjnanthakumar/count.svg" />
+ </p>
 
 <div align="center">
 
