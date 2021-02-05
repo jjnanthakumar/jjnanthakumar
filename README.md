@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Amchuz/Amchuz/blob/master/Amchuz.gif">
-</p>
-  
-.
-  
   
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
