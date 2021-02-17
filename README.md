@@ -5,7 +5,7 @@
 
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :black_heart: K-pop | :blue_heart: Anime
+:heart: Programming
   
 I am a Final Year Computer Engineering Student at Panimalar Engineering College of Engineering Chengannur. I love Web development and trying to find more about Full Stack Web Development.
 
