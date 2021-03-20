@@ -74,6 +74,7 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
   <summary>:fire: GitHub Streak</summary>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjnanthakumar&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+  <br/>
 
 <p align=center>
   <a href="https://github.com/jjnanthakumar" title="User Profile">
