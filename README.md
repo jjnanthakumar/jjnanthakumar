@@ -48,7 +48,33 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
 ----
-   
+## :bar_chart: My GitHub Stats
+
+
+  <summary>:chart_with_upwards_trend: Profile Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" align="center" width="48%" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjnanthakumar&layout=compact&theme=chartreuse-dark&langs_count=6" alt="GitHub Top-Langs" align="center" width="40%" />
+  <b>Note:</b> This is only a metric of the languages my public code on GitHub consists of and does not reflect my expertise or skill level.
+  <br/>
+  <br/>
+  
+   <summary>:chart_with_upwards_trend: Contribution Graph </summary>
+   <br/>
+   <img src="https://activity-graph.herokuapp.com/graph?username=jjnanthakumar&theme=xcode" alt="Contribution Graph" align="center" />
+
+
+  <summary>:trophy: Github Profile Trophy</summary>
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jjnanthakumar&theme=monokai&row=1&no-frame=true&no-bg=true/">
+
+                                                                                                                                      
+
+  <summary>:fire: GitHub Streak</summary>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jjnanthakumar&theme=dark&show-icons=true" alt="GitHub Streak" align="center" />
+
 <p align=center>
   <a href="https://github.com/jjnanthakumar" title="User Profile">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=jjnanthakumar&show_icons=true&theme=radical&hide=[%22contribs%22,%22issues%22]">
