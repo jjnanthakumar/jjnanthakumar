@@ -48,9 +48,6 @@ I am a Final Year Computer Engineering Student at Panimalar Engineering College 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
   
 ----
-## :bar_chart: My GitHub Stats
-
-
    
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
