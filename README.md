@@ -7,7 +7,7 @@
   
 :heart: Programming
   
-I am a Final Year Computer Engineering Student at Panimalar Engineering College of Engineering Chengannur. I love Web development and trying to find more about Full Stack Web Development.
+I am a Final Year Computer Engineering Student at Panimalar Engineering College of Engineering Chennai. I love Web development and trying to find more about Full Stack Web Development.
 
 - 🔭 I’m currently working on Memories App using MERN stack.
 - 💬 Ask me about anything. I will try to help you as much as I can.
