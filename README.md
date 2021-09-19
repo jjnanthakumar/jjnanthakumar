@@ -1,15 +1,14 @@
-<p align="center">
-  <a href="https://jjnanthakumar.github.io">
-<img src="https://github.com/jjnanthakumar/jjnanthakumar/blob/main/temp.gif" height="300" width="600"></a>
-  </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nanthakumar J J</h1>
 
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-  
+<p align="center">
+  <a href="https://jjnanthakumar.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Enthusiast;Django+Developer;Azure+Synapse+Analytics;Full+Stack+Developer;C%23+and+.NET;Pyqt5+and+Tkinter;Wordpress&center=true" /></a>
+  </p>
+ 
 :heart: Programming
   
-I am a Final Year Computer Engineering Student at Panimalar Engineering College of Engineering Chennai. I love Web development and trying to find more about Full Stack Web Development.
+I am a Graduate in Computer Science and Engineering at Panimalar Engineering College of Engineering Chennai. I love python and trying to find more about Full Stack Web Development.
 
-- 🔭 I’m currently working on Memories App using MERN stack.
+- 🔭 I’m currently working on Azure Synapse Analytics.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
