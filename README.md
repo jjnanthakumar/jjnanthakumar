@@ -6,9 +6,9 @@
  
 :heart: Programming
   
-I am a Graduate in Computer Science and Engineering at Panimalar Engineering College of Engineering Chennai. I love python and trying to find more about Full Stack Web Development.
+I am a Graduate in Computer Science and Engineering at Panimalar Engineering College, Chennai. I love python and trying to find more about Full Stack Web Development.
 
-- 🔭 I’m currently working on Azure Synapse Analytics.
+- 🔭 I’m currently working on Azure Synapse Analytics, Azure Databricks, Azure Cognitive Services and Azure Machine Learning.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
