@@ -1,4 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nanthakumar J J</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nanthakumar J J
+
+  [![Nanthakumar J J StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13732683)](https://stackoverflow.com/users/13732683/nanthakumar-j-j)
+
+</h1>
+
 
 <p align="center">
   <a href="https://jjnanthakumar.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Enthusiast;Django+Developer;Azure+Synapse+Analytics;Full+Stack+Developer;C%23+and+.NET;Pyqt5+and+Tkinter;Wordpress&center=true" /></a>
