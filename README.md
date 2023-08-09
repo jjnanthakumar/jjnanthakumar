@@ -6,14 +6,14 @@
 
 
 <p align="center">
-  <a href="https://jjnanthakumar.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Python+Enthusiast;Django+Developer;Azure+Synapse+Analytics;Full+Stack+Developer;C%23+and+.NET;Pyqt5+and+Tkinter;Wordpress&center=true" /></a>
+  <a href="https://jjnanthakumar.github.io"><img src="https://readme-typing-svg.herokuapp.com?lines=Pythonista;Django+Developer;Azure+Synapse+Analytics;Full+Stack+Developer;C%23+and+.NET;Pyqt5+and+Tkinter;Wordpress&center=true" /></a>
   </p>
  
 :heart: Programming
   
-I am a Graduate in Computer Science and Engineering at Panimalar Engineering College, Chennai. I love python and trying to find more about Full Stack Web Development.
+I am a Computer Science and Engineering graduate of Panimalar Engineering College, Chennai. I love Python and trying to find out more about Full Stack Web Development.
 
-- 🔭 I’m currently working on Azure Synapse Analytics, Azure Databricks, Azure Cognitive Services and Azure Machine Learning.
+- 🔭 I’m currently working on Azure Synapse Analytics, Azure Databricks, Azure Cognitive Services, and Azure Machine Learning.
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
@@ -55,7 +55,7 @@ I am a Graduate in Computer Science and Engineering at Panimalar Engineering Col
    
    <summary>:chart_with_upwards_trend: Contribution Graph </summary>
    <br/>
-   <img src="https://activity-graph.herokuapp.com/graph?username=jjnanthakumar&theme=xcode" alt="Contribution Graph" align="center" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jjnanthakumar&theme=xcode" alt="Contribution Graph" align="center" />
 
 
   <summary>:trophy: Github Profile Trophy</summary>
