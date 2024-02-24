@@ -18,8 +18,8 @@ I am a Computer Science and Engineering graduate of Panimalar Engineering Colleg
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
 
-| [<img src="public/icons/socials/github.svg" alt="github logo" width="30" height="30">](https://github.com/jjnanthakumar) |  [<img src="public/icons/socials/instagram.svg" alt="instagram logo" width="30" height="30">](https://www.instagram.com/nanthakumarjj_17/) |  [<img src="public/icons/socials/twitter.svg" alt="twitter logo" width="30" height="30">](https://twitter.com/nanthakumarjj) |  [<img src="public/icons/socials/linkedin.svg" alt="linkedin logo" width="30" height="30">](https://www.linkedin.com/in/jjnanthakumar/) |  [<img src="public/icons/socials/facebook.svg" alt="facebook logo" width="30" height="30">](https://www.facebook.com/nanthakumar.jj.98/) | [<img src="public/icons/socials/stackoverflow.svg" alt="stackoverflow logo" width="30" height="30">](https://stackoverflow.com/users/13732683/nanthakumar-j-j) |
-|---|---|---|---|---|---|---|---|
+[<img src="public/icons/socials/github.svg" alt="github logo" width="30" height="30">](https://github.com/jjnanthakumar)  [<img src="public/icons/socials/instagram.svg" alt="instagram logo" width="30" height="30">](https://www.instagram.com/nanthakumarjj_17/)  [<img src="public/icons/socials/twitter.svg" alt="twitter logo" width="30" height="30">](https://twitter.com/nanthakumarjj)  [<img src="public/icons/socials/linkedin.svg" alt="linkedin logo" width="30" height="30">](https://www.linkedin.com/in/jjnanthakumar/)  [<img src="public/icons/socials/facebook.svg" alt="facebook logo" width="30" height="30">](https://www.facebook.com/nanthakumar.jj.98/) [<img src="public/icons/socials/stackoverflow.svg" alt="stackoverflow logo" width="30" height="30">](https://stackoverflow.com/users/13732683/nanthakumar-j-j)
+ 
 
 ----
 
